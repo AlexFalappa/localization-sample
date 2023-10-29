@@ -1,7 +1,9 @@
 {
-    "buttons": {
-        "ok": "OK",
-        "cancel": "Annulla",
-        "add": "Aggiungi"
-    }
+  "buttons": {
+    "ok": "OK",
+    "cancel": "Annulla",
+    "add": "Aggiungi",
+    "remove": "",
+    "edit": ""
+  }
 }
