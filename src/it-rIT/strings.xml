@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="planets_array">
+    <item>Mercurio</item>
+    <item>Venere</item>
+    <item>Terra</item>
+    <item>Marte</item>
+  </string-array>
+  <plurals name="numberOfSongsAvailable">
+    <item quantity="one">%d canzone trovata.</item>
+    <item quantity="other">%d canzoni trovate</item>
+  </plurals>
+  <string name="tagged_string">Ciao <b><i>Android</i></b>, sei coraggioso.</string>
+  <string name="double_quoted_string">\"virgolette\"</string>
+  <string name="busy_warning">Spiacente, Troubadour sta lavorando sodo, riprovi tra un attimo.</string>
+  <string name="trademark">Troubadour è un marchio registrato, tutti i diritti riservati.</string>
+</resources>
