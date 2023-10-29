@@ -1,18 +1,16 @@
 {
-    "buttons": {
-        "ok": "OK",
-        "cancel": "Cancel",
-        "add": "Add",
-        "remove": "Remove",
-        "edit": "Edit",
-        "search": "Search",
-        "filter": "Filter"
-    },
     "menu": {
         "file": "File",
         "edit": "Edit",
         "view": "View",
-        "selection": "Selection",
-        "help": "Help"
+        "help": "Info"
+    },
+    "buttons": {
+        "ok": "OK",
+        "cancel": "Cancel",
+        "add": "Add",
+        "remove": "Delete",
+        "edit": "Edit",
+        "filter": "Filter"
     }
 }
