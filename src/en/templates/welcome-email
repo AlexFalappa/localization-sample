@@ -1,0 +1,13 @@
+<html>
+
+<body>
+    <h2>Welcome to our Hotel</h2>
+    <p>Dear Guest, we are glad for the preference you gave us!</p>
+    <p>While you enjoy your stay we suggest to visit:</p>
+    <ul>
+        <li>Our relaxing SPA at the underground floor</li>
+        <li>The ancient Greel Amphiteatre 5 minutes walk from our hotel</li>
+    </ul>
+</body>
+
+</html>
