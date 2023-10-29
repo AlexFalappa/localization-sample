@@ -1,21 +1,21 @@
 {
-    "menu": {
-        "file": "File",
-        "edit": "Edit",
-        "view": "View",
-        "help": "Info",
-        "go": "Go"
-    },
-    "buttons": {
-        "ok": "OK",
-        "cancel": "Cancel",
-        "add": "Add",
-        "remove": "Delete",
-        "edit": "Edit",
-        "filter": "Filter"
-    },
-    "messages":{
-        "delete-confirmation":"Are you sure to delete the selected files?",
-        "exit-confirmation":"Do you really want to exit the application?"
-    }
+  "buttons": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "add": "Add",
+    "remove": "Delete",
+    "edit": "Edit",
+    "filter": "Filter"
+  },
+  "menu": {
+    "file": "File",
+    "edit": "Edit",
+    "view": "View",
+    "help": "Help",
+    "go": "Go"
+  },
+  "messages": {
+    "delete-confirmation": "Are you sure to delete the selected files?",
+    "exit-confirmation": "Do you really want to exit the application?"
+  }
 }

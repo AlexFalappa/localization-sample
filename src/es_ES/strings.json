@@ -11,7 +11,11 @@
     "file": "Archivo",
     "edit": "Editar",
     "view": "Vista",
-    "help": "Información",
+    "help": "Ayuda",
     "go": "Vaya a"
+  },
+  "messages": {
+    "delete-confirmation": "¿Está seguro de eliminar los archivos seleccionados?",
+    "exit-confirmation": "¿Realmente quieres salir de la aplicación?"
   }
 }
