@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
+    <string name="tagged_string">
+        Hello <b><i>Android</i></b>, You are bold.
+    </string>
+    <string name="double_quoted_string">\"double quotes\"</string>
+<string name="busy_warning">Sorry, Troubadour is working hard, please try again in a moment.</string>
+    <string name="trademark">Troubadour is a registerd trademark, all rights reserved.</string>
+</resources>
