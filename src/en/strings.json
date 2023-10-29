@@ -3,7 +3,8 @@
         "file": "File",
         "edit": "Edit",
         "view": "View",
-        "help": "Info"
+        "help": "Info",
+        "go": "Go"
     },
     "buttons": {
         "ok": "OK",
