@@ -4,6 +4,15 @@
     "cancel": "Cancelar",
     "add": "Agregar",
     "remove": "Eliminar",
-    "edit": "Editar"
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar"
+  },
+  "menu": {
+    "file": "Archivo",
+    "edit": "Editar",
+    "view": "Vista",
+    "selection": "Selección",
+    "help": "Ayuda"
   }
 }
