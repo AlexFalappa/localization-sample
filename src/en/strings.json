@@ -4,6 +4,15 @@
         "cancel": "Cancel",
         "add": "Add",
         "remove": "Remove",
-        "edit": "Edit"
+        "edit": "Edit",
+        "search": "Search",
+        "filter": "Filter"
+    },
+    "menu": {
+        "file": "File",
+        "edit": "Edit",
+        "view": "View",
+        "selection": "Selection",
+        "help": "Help"
     }
 }
