@@ -13,5 +13,9 @@
         "remove": "Delete",
         "edit": "Edit",
         "filter": "Filter"
+    },
+    "messages":{
+        "delete-confirmation":"Are you sure to delete the selected files?",
+        "exit-confirmation":"Do you really want to exit the application?"
     }
 }
