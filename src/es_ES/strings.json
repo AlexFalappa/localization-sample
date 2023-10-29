@@ -3,16 +3,15 @@
     "ok": "OK",
     "cancel": "Cancelar",
     "add": "Agregar",
-    "remove": "Eliminar",
+    "remove": "Borrar",
     "edit": "Editar",
-    "search": "Buscar",
     "filter": "Filtrar"
   },
   "menu": {
     "file": "Archivo",
     "edit": "Editar",
     "view": "Vista",
-    "selection": "Selección",
-    "help": "Ayuda"
+    "help": "Información",
+    "go": "Vaya a"
   }
 }
